@@ -154,7 +154,3 @@ python main.py \
 
     Correlated Variables Configuration:
         Specifies the variables to be generated, their types, means, standard deviations, and correlations with disease liability.
-
-## Conclusion
-
-The Bias Simulation Package provides a flexible and powerful tool for generating synthetic datasets with controlled biases and disease states. By allowing detailed configuration of biases, disease prevalence, and censoring, users can create realistic datasets to test and evaluate bias mitigation techniques effectively. The provided example command demonstrates how to configure and run the simulation with the specified variables and their correlations, generating a dataset suitable for bias mitigation studies.
